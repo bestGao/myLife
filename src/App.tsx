@@ -2,7 +2,6 @@ import React, { lazy, Suspense, useState } from 'react'
 import smallImg from './assets/imgs/5kb.png'
 import bigImg from './assets/imgs/22kb.png'
 import Class from './components/Class'
-import './app.css'
 import './app.less'
 
 // prefetch
